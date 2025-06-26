@@ -1,0 +1,12 @@
+[submodule "InfinityAPI"]
+	path = InfinityAPI
+	url = git@github.com:toantran292/infinitys-api.git
+[submodule "InfinityClient"]
+	path = InfinityClient
+	url = git@github.com:toantran292/infinitys-client.git
+[submodule "InfinityAdmin"]
+	path = InfinityAdmin
+	url = git@github.com:toantran292/infinitys-admin.git
+[submodule "InfinityOJ"]
+	path = InfinityOJ
+	url = git@github.com:toantran292/infinitys-oj.git
